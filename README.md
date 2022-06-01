@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ini-coder
+- 👀 I’m interested in cleantech.
+- 🌱 I’m currently learning javascript.
+- 💞️ I’m looking to collaborate on greentech code in javascript.
